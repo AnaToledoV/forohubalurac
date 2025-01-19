@@ -1,0 +1,10 @@
+# Archivos de configuración de IntelliJ IDEA
+.idea/
+*.iml
+
+# Archivos generados automáticamente por Maven
+/target/
+
+# Otros archivos temporales
+*.class
+*.log
